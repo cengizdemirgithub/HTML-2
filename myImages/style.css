@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    background-color: rgb(157, 196, 196);
+}
+footer{
+    display: flex;
+    background-color: rgb(165, 165, 79);
+    display: contents;
+    margin: 10px;
+    
+}
+.branches{
+    display: flex;
+    background-color: rgb(80, 155, 130);
+}
+.tickets{
+    display: flex;
+    background-color: bisque;
+    
+}
+.home{
+    display: flex;
+    background-color: aqua;
+ margin: 10px;
+}
+h1{
+    flex-direction: column;
+}
+h2{
+    font-weight: 900;
+    font: optional;
+    
+}
